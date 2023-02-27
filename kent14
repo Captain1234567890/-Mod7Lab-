@@ -1,0 +1,16 @@
+<html>
+     <head>
+         <link> rel="stylesheet" href="index.css">
+     </head>   
+     <body>
+         <h1> The componets of the earth</h1>
+         <!--https://caniuse.com/#feat=css-grid -->
+         <ul class="list">
+             <li>Nature</li>
+             <li>The climate</li>
+             <li>Awesome space</li>
+             <li>The environment</li>
+             <li>Water species</li>
+         </ul>  
+     </body>
+ </html>          
